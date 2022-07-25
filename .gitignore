@@ -1,0 +1,8 @@
+#Ignore classpath
+.classpath
+
+#Ignore project
+.project
+
+# Ignore a pasta bin
+bin
